@@ -1,6 +1,6 @@
 # Nexo Salud · Citas
 
-Flujo interactivo para reservar una cita: selección de servicio, fecha, horario, datos del paciente y confirmación.
+Plataforma funcional para consultar especialidades, elegir médico, validar horarios, registrar pacientes, generar folios, administrar citas y descargar eventos de calendario.
 
 - [Abrir experiencia](https://victorabel777.github.io/nexo-salud-citas/)
 - [Volver al portafolio](https://victorabel777.github.io/portafolio_victorabel/)
